@@ -1,0 +1,35 @@
+h2 {
+  margin: 1% 0;
+  text-align: center;
+}
+
+.map-container {
+  display: flex;
+  height: 100%;
+  margin-left: 4%;
+}
+
+.weather-table {
+  height: 30rem;
+  width: 47.5rem;
+  margin-left: 2%;
+  border-spacing: 0;
+}
+
+th {
+  text-align: left;
+  padding-left: 2rem;
+  width: 25%;
+}
+
+td {
+  text-align: left;
+}
+
+.green-row {
+  background-color: lightgreen;
+}
+
+.blue-row {
+  background-color: lightskyblue;
+}
